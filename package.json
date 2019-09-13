@@ -1,6 +1,6 @@
 {
   "name": "pypot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An ES6 / Javascript compliant, Promised-based, object-oriented client for Poppy robots (Pypot API) using Axios.",
   "main": "index.js",
   "scripts": {
@@ -17,12 +17,12 @@
     "robotics"
   ],
   "author": "Brice Copy",
-  "license": "GPL-3.0-or-later",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/CMCRobotics/pypot.js/issues"
   },
   "homepage": "https://github.com/CMCRobotics/pypot.js#readme",
   "dependencies": {
     "axios": "^0.19.0"
-  },
+  }
 }
